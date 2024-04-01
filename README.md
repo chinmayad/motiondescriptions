@@ -1,6 +1,6 @@
 **This is the motion description dataset.**
 
-To obtain motion descriptions, we use GPT-4 API. **User study to evaluate the quality of data and the dataset statistics can be seen in the file Dataset Statistics of motion description dataset.pdf**
+To obtain motion descriptions, we use GPT-4 API. **User study to evaluate the quality of data and the dataset statistics can be seen in the file User_Study_Dataset Statistics.pdf**
 
 
 This dataset is provided in conjunction with the HMDB51 dataset, UCF101 dataset, and the Kinetics-400 dataset. We encourage users to download the videos from their official pages respectively and use our motion descriptions provided in this repo.
