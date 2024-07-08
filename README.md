@@ -19,9 +19,21 @@ The file ucf_descriptions.csv refers to the action descriptions of the UCF101 da
 **Kinetics-400 dataset**
 The following files, kinetics400_motion_descriptions.csv, correspond to motion descriptions,  and the file Kinetics400_action_descrptions.csv, refers to the action descriptions of the Kinetics-400 dataset. 
 
-
-
 PS: Motion descriptions and action descriptions are different. Motion descriptions describe the motion in the action, whereas action descriptions describe the action. 
+
+
+**CODE**
+To be released soon. 
+
+Citation
+If you find this dataset useful in your research, please consider citing:
+@article{devaraj2024diving,
+  title={Diving Deep into the Motion Representation of Video-Text Models},
+  author={Devaraj, Chinmaya and Fermuller, Cornelia and Aloimonos, Yiannis},
+  journal={arXiv preprint arXiv:2406.05075},
+  year={2024}
+}
+
 
 
 
