@@ -26,7 +26,8 @@ PS: Motion descriptions and action descriptions are different. Motion descriptio
 
 To be released soon. 
 
-Citation
+**Citation**
+
 If you find this dataset useful in your research, please consider citing:
 @article{devaraj2024diving,
   title={Diving Deep into the Motion Representation of Video-Text Models},
