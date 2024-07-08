@@ -1,4 +1,3 @@
-Here's an edited version of the readme file to improve readability:
 
 ---
 
