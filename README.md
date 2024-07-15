@@ -1,7 +1,7 @@
 
 ---
 
-# This offical repo of Diving Deep into the Motion Representation of Video-Text Models
+# This is offical repo of Diving Deep into the Motion Representation of Video-Text Models
 
 
 To obtain motion descriptions, we use the GPT-4 API. For detailed evaluation of the quality of data and the dataset statistics, please refer to the file **User_Study_Dataset Statistics.pdf**.
